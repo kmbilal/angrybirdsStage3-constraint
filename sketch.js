@@ -8,7 +8,7 @@ var backgroundImg, platForm;
 var object1,object2;
 
 function preload() {
-    backgroundImg = loadImage("sprites/bg.png");
+    backgroundImg = loadImage("bg.png");
 }
 
 function setup(){
